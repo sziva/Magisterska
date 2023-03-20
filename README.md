@@ -1,0 +1,2 @@
+# Magisterska
+Master thesis code
